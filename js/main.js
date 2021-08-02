@@ -211,7 +211,7 @@ $(document).ready( () => {
                             </td>
 
                             <td>
-                                <button id="btn-edit-tarea" class="btn btn-success">Detalles</button>
+                                <button id="btn-edit-tarea" class="btn btn-success">Editar</button>
                             </td>
 
                             <td>
